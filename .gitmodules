@@ -1,0 +1,8 @@
+[submodule "sub_try/segmentation_tooling/submodules/data_infrastructure"]
+	path = sub_try/segmentation_tooling/submodules/data_infrastructure
+	url = https://gitlab.angiogenesis-analytics.nl/cudi/data-infrastructure.git
+	branch = wim_test
+[submodule "sub_try/submodules/data_infrastructure"]
+	path = sub_try/submodules/data_infrastructure
+	url = https://gitlab.angiogenesis-analytics.nl/cudi/data-infrastructure.git
+	branch = wim_test
